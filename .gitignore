@@ -1,0 +1,18 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+
+# Archivos de configuración de editores
+.vscode/
+
+# Archivos de configuraciones locales
+*.env
+
+# Directorios de dependencias de nodemon (si es que los usa)
+.pids
+*.pid
+
+# Archivos de configuración de npm
+package-lock.json
